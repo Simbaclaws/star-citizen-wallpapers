@@ -1,5 +1,8 @@
 # Star Citizen Wallpapers
 These are some wallpapers I collected from the internet. Most of it is concept art.
+All rights of these images go to the artists that created them and robertsspaceindustries for creating star citizen.
+I do not own these images, I just want to spread these great pieces of art through a repository.
+Please notify me to take the repository down or to remove specific images if I'm breaking any rules here.
 
 ![nr1](https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-1080p-244754.jpg)
 ![nr2](https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-full-hd-1080p-244726.jpg)
