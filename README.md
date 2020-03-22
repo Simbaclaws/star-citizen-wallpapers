@@ -1,1 +1,23 @@
-#star-citizen-wallpapers
+# Star Citizen Wallpapers
+These are some wallpapers I collected from the internet. Most of it is concept art.
+
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-1080p-244754.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-full-hd-1080p-244726.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-full-hd-1920x1080-244709.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-full-hd-244725.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-full-hd-244800.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-full-hd-244838.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-1080p-244740.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-1600x768-244802.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-1600x900-244744.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-1920x1080-244772.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-1920x1080-244787.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-1920x1200-244765.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-2560x1440-244716.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-2560x1440-244747.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-2560x1440-244777.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-2560x1440-244783.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-2560x1440-244823.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-2560x1440-244827.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-2880x1800-244710.jpg)
+!(image)(https://github.com/Simbaclaws/star-citizen-wallpapers/blob/master/star-citizen-background-hd-3200x2048-244741.jpg)
